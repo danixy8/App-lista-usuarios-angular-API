@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+.btn-xl {
+  background-color: #E1B82E;
+  border-color:#E1B82E;
+  padding: 1rem 2rem;
+  border-radius: 100px;
+}
+
+.btn-xl:hover{
+  background-color: #d6b031;
+  border-color:  #d6b031;
+  border-width: 4px;
+}
